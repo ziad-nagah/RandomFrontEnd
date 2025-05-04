@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(14, 13, 13);
+    
+}
+h1{
+    color: aliceblue;
+    text-align: center;
+}
+h2{
+    color:rgb(89, 88, 88);
+    text-align: center;
+}
+h3{
+    color:rgb(89, 88, 88);
+    text-align: center;
+}
+#pro{
+    display: block;
+    margin: auto;
+    width: 300px;
+    border-radius: 50%;
+    border-style: groove;
+    border-color: rgb(252, 10, 10);
+}
+div{
+    display: block;
+    margin: auto;
+    width: 908px;
+    height: 900px;
+    
+}
+#pic{
+    width: 300px;
+    height: 300px;
+    
+}
