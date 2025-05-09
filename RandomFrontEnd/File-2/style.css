@@ -1,0 +1,20 @@
+.contain{
+    width: 90%;
+    margin-inline:auto;
+}
+.contain h1{
+    text-align: center;
+}
+.items{
+    float: left;
+    width: 25%;
+    text-align: center;
+    box-sizing: border-box;
+    padding-inline: 20px;
+}
+
+.items img{
+    width: 100%;
+    border-radius: 100%;
+    border: 6px solid burlywood;
+}
